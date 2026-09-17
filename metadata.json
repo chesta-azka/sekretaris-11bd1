@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Sekretaris Kelas Digital",
+  "description": "Aplikasi absensi dan piket kelas 11 BD 1 SMKN 15 Kabupaten Tangerang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
